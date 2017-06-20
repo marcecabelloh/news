@@ -1,1 +1,12 @@
 /* Holiii otra vez */
+
+body{
+	padding: 0;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
